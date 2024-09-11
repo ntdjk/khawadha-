@@ -1,0 +1,22 @@
+.singel-address i {
+	border: 1px solid #ff3636;
+	text-align: center;
+	line-height: 40px;
+	width: 40px;
+	height: 40px;
+	margin-right: 15px;
+	background: #ff3636;
+	color: #fff;
+	border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
